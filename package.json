@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "NodeJS Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bycdiaz/nodejs-crash-course.git"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bycdiaz/nodejs-crash-course/issues"
+  },
+  "homepage": "https://github.com/bycdiaz/nodejs-crash-course#readme",
+  "dependencies": {
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
